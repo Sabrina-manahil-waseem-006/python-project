@@ -1,5 +1,5 @@
 
-# <div align="center"> Title: Learning Play Zone</div>
+# <div align="center">  🎓 Title: Learning Play Zone 🎓 </div>
 
 # 📊 Project Overview:
 This project, developed as part of my first-semester coursework, is a responsive and fully functional desktop application aimed at enhancing and improving the learning skills of children. The application provides an interactive and educational experience where kids are encouraged to engage with visual content to reinforce their learning.
