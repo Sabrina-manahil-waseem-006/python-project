@@ -19,7 +19,7 @@ The application features a simple and intuitive user interface designed to be ac
 _Interactive Learning_:<br>
 Children are presented with a series of images and asked to inspect them carefully. They then select the correct option from multiple choices, helping them to learn through visual association and critical thinking.<br>
 
-_Responsive Design-:<br>
+_Responsive Design_:<br>
 The application is built to be fully responsive, ensuring a consistent and seamless experience across different screen sizes and resolutions.<br>
 
 _Educational Focus_:<br>
