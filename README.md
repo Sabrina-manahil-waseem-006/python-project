@@ -67,3 +67,18 @@ VIII. IntVar for Radiobuttons: <br>
 The IntVar named selected_option is used to keep track of the user's 
 selected option among the Radiobuttons
 
+---
+# Screenshots of main features:
+✔️ upon clicking the play button main window appears
+
+https://github.com/Sabrina-manahil-waseem-006/python-project/blob/main/1.JPG
+
+✔️ Upon clicking the button of right option, ‘OOPS! WRONG ANSWER’ message displays
+https://github.com/Sabrina-manahil-waseem-006/python-project/blob/main/2.JPG
+✔️ Upon clicking the button of right option, ‘WELLDONE’ message displays
+https://github.com/Sabrina-manahil-waseem-006/python-project/blob/main/3.JPG
+✔️Upon pressing the 'Next' button, the display will advance to the next page. Similarly, pressing the 
+'Previous' button will show the previous page.
+https://github.com/Sabrina-manahil-waseem-006/python-project/blob/main/4.JPG
+✔️ On the last image there is an option of viewing total score
+https://github.com/Sabrina-manahil-waseem-006/python-project/blob/main/5.JPG
