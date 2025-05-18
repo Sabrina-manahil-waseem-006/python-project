@@ -6,7 +6,7 @@ This project, developed as part of my first-semester coursework, is a responsive
 
 ---
 # ❓ Problem statement:
-Crafting a Special Learning Experience for Little Ones
+Crafting a Special Learning Experience for Little Ones.
 In the world of early childhood education, we set out to create something unique—a Python-based 
 learning app tailor-made for preschoolers aged 3 to 5. Our aim was simple yet profound: to provide an 
 engaging and educational journey focused on the joy of identifying pictures.
